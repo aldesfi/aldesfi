@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on **Programming**
 - 📫 How to reach me 
     - alldes182@gmail.com
-    - +6282285786884
+    - +62
 
 <!---
 aldesfi/aldesfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
