@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aldesfi
 - 👀 I’m interested in U ❤️
-- 🌱 I’m currently learning **VOTO NUSA**
 - 💞️ I’m looking to collaborate on **Programming**
 - 📫 How to reach me 
     - alldes182@gmail.com
